@@ -202,10 +202,16 @@ table {
       font-weight: 400;
       letter-spacing: 0;
     }
+
+    img {
+      display: inline;
+    }
   }
 
   .masthead-navigation {
     float: right;
+    margin-top: .5em;
+    margin-bottom: 2em;
 
     small {
       margin-right: 1em;
