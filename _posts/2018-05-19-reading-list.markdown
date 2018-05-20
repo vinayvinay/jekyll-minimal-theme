@@ -11,4 +11,8 @@ categories: reading books
 
 It is no longer a secret that Elixir is promising. I've made attempts at picking-up Elixir in past. But, this time round I want to put my head down and practice what I've been hearing, reading, or watching.
 
+#### Docker fundamentals
+
+I'm studying [Docker docs](https://docs.docker.com/) and [Docker Curriculum](https://docker-curriculum.com/) to grasp Docker fundamentals and getting some practice as I go.
+
 ### Recommendations from what I've read
