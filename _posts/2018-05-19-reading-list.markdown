@@ -15,4 +15,8 @@ It is no longer a secret that Elixir is promising. I've made attempts at picking
 
 I'm studying [Docker docs](https://docs.docker.com/) and [Docker Curriculum](https://docker-curriculum.com/) to grasp Docker fundamentals and getting some practice as I go.
 
+#### Crucial conversations
+
+
+
 ### Recommendations from what I've read
