@@ -213,13 +213,15 @@ table {
   }
 }
 
+.introduction {
+  margin-bottom: 3em;
+}
 
 //////////////////////////
 // Posts
 
 .post {
-  margin-top: 4em;
-  margin-bottom: 4em;
+  margin-bottom: 3em;
 
   // note: only change margin for title,date if inside post block
   .post-title {
@@ -241,4 +243,9 @@ table {
 
 .post-date {
   color: $post-date-color;
+}
+
+.footer {
+  margin-top: 8em;
+  font-size: 75%;
 }
