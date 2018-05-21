@@ -6,7 +6,7 @@ date:   2018-05-21
 
 I was being interviewed for our college's software research lab during my masters, and I claimed that my strength is: "... the ability to learn, unlearn, and relearn."
 
-I knew this was an important ability and I was working on improving it.
+I knew back then too, that this was an important ability and I try to work on improving it.
 
 It'll be nice to have a list of what I had to unlearn to replace it with a new learning.
 
