@@ -4,6 +4,7 @@
 title:   'Vinay Patel'
 author:
   name:  'Vinay Patel'
+description: "Hello! My name is Vinay Patel. I am a software developer interested in building web applications that serve user needs, using lean software development, cloud, and continuous delivery."
 
 ## note:
 #  use site.path in your templates to make it work for both protocols e.g. http and https
