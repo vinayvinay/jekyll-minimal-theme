@@ -4,8 +4,6 @@ title:  "Go Dolphin spotting at Konkan"
 date:   2014-12-30
 ---
 
-### Go Dolphin spotting at Konkan
-
 This ride atop a fisherman's boat far into the sea searching for dolphins is a unique experience.
 
 You head 4–5 km. into the sea with gentle waves rocking your boat to get spectacular views of the beach and a chance to experience dolphins dancing around your boat.
