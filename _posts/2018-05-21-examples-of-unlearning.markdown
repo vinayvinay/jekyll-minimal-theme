@@ -8,9 +8,9 @@ I was being interviewed for our college's software research lab during my master
 
 I knew back then too, that this was an important ability and I try to work on improving it.
 
-It'll be nice to have a list of what I had to unlearn to replace it with a new learning.
+It'll be nice to have a list of what I had to unlearn and replace with a new learning.
 
-#### Unlearned the behaviour of equals operator (`=`) (2018-05-21)
+### Unlearned the behaviour of equals operator (`=`) (2018-05-21)
 
 Learning Elixir made me do it. In Elixir, `=` doesn't do assignment but does _pattern matching_, hence it is called a _match_ operator.
 
