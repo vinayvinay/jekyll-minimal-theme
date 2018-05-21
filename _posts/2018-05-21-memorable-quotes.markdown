@@ -1,4 +1,8 @@
-### Memorable quotes
+---
+layout: post
+title:  "Memorable quotes"
+date:   2018-05-21
+---
 
 A collection of my favourite quotations: witty, wise, or whacky, just keeping them all here in one place.
 
