@@ -4,9 +4,9 @@ title:  "Review of Chaitanya Srushti, Ladghar, Dapoli"
 date:   2014-12-30
 ---
 
-![Chaitanya Srushti, Ladghar, Dapoli]({{ "/assets/chaitanya-srushti.jpg" | absolute_url }})
-
 I would strongly recommend this place for group trips if you are looking for a place to unwind and let nature heal you. More so, if your group is about 12–15 people, you feel as if you own this resort.
+
+![Chaitanya Srushti, Ladghar, Dapoli]({{ "/assets/chaitanya-srushti.jpg" | absolute_url }})
 
 This place is not for you if you can’t appreciate simple rural life in the lap of nature, or if you’re looking to sit-back in your room and watch television, or have come to Konkan to relish non vegetarian or sea-food.
 
