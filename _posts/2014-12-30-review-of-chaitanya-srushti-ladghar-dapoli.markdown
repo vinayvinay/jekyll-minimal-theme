@@ -4,8 +4,6 @@ title:  "Review of Chaitanya Srushti, Ladghar, Dapoli"
 date:   2014-12-30
 ---
 
-### Review of Chaitanya Srushti, Ladghar, Dapoli
-
 ![Chaitanya Srushti, Ladghar, Dapoli]({{ "/assets/chaitanya-srushti.jpg" | absolute_url }})
 
 I would strongly recommend this place for group trips if you are looking for a place to unwind and let nature heal you. More so, if your group is about 12–15 people, you feel as if you own this resort.
