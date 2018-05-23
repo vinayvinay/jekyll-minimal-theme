@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Memorable technical quotes"
-date:   2018-05-21
+date:   2018-05-23
 ---
 
 A collection of my favourite technical quotes: witty, wise, or whacky, just keeping them all here in one place.
